@@ -1,2 +1,2 @@
 # AppDownload
-Web site for download app
+Simple example of Website for download app
